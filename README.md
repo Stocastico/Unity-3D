@@ -37,5 +37,3 @@ Ejercicio 6: Uso del ejemplo AR/VR de Vuforia. Modificación de la escena, visua
 ### Día 4: Práctica final
 Repaso de las herramientas aprendidas, dudas y aclaraciones
 Práctica final tutorizada basada en lo aprendido en los días previos y exposición ante el grupo
-
-PW: iaehfb3f3789632çñKKK

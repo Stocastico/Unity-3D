@@ -1,26 +1,26 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
 MERGED from [:VuforiaWrapper:] /Users/fasteno/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a5e93b522dc25edb09dfb1f92f4e460c/AndroidManifest.xml:2:1-32:12
-INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-99
 		INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml
 		INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml
-		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-27:12
+		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:100-146
 	android:versionCode
 		INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml
-		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-27:12
+		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
@@ -53,15 +53,15 @@ MERGED from [:VuforiaWrapper:] /Users/fasteno/.gradle/caches/transforms-1/files-
 activity#com.unity3d.player.UnityPlayerActivity
 ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
 	android:screenOrientation
-		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-140
+		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-139
 	android:label
 		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
 	android:launchMode
-		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:5:141-172
+		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:5:140-171
 	android:hardwareAccelerated
-		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:5:355-390
+		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:5:354-389
 	android:configChanges
-		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:5:173-354
+		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:5:172-353
 	android:name
 		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
@@ -147,24 +147,30 @@ ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidMa
 		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:23:62-86
 	android:name
 		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:23:17-61
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:24:3-97
+	android:required
+		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:24:70-94
+	android:name
+		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:24:17-69
 uses-feature#android.hardware.touchscreen
-ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:24:3-88
+ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:25:3-88
 	android:required
-		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:24:61-85
+		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:25:61-85
 	android:name
-		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:24:17-60
+		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:25:17-60
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:25:3-99
+ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:26:3-99
 	android:required
-		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:25:72-96
+		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:26:72-96
 	android:name
-		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:25:17-71
+		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:26:17-71
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:26:3-108
+ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:27:3-108
 	android:required
-		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:26:81-105
+		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:27:81-105
 	android:name
-		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:26:17-80
+		ADDED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:27:17-80
 uses-sdk
 INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml
@@ -202,4 +208,4 @@ ADDED from [:VuforiaWrapper:] /Users/fasteno/.gradle/caches/transforms-1/files-1
 	android:name
 		ADDED from [:VuforiaWrapper:] /Users/fasteno/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/a5e93b522dc25edb09dfb1f92f4e460c/AndroidManifest.xml:28:13-54
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-27:12 reason: com.vuforia.engine.ext requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/fasteno/code/Unity-3D/002-AR/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12 reason: com.vuforia.engine.ext requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,4 @@
+#Thu Jul 11 10:54:51 CEST 2019
+base.0=/Users/fasteno/code/Unity-3D/004-Video360/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
